@@ -30,3 +30,4 @@ INSERT INTO band (bandName, creation, genre) VALUES
 ('Crazy Duo', 2015, 'rock'),
 ('Luna', 2009, 'classical'),
 ('Mysterio', 2019, 'pop');
+#
